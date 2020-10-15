@@ -1,28 +1,6 @@
-# Toy Robot
-[![Build Status](https://travis-ci.org/SelenaSmall/toy_robot.png)](https://travis-ci.org/SelenaSmall/toy_robot)
-[![Code Climate](https://codeclimate.com/github/SelenaSmall/toy_robot/badges/gpa.svg)](https://codeclimate.com/github/SelenaSmall/toy_robot)
-[![Test Coverage](https://codeclimate.com/github/SelenaSmall/toy_robot/coverage.svg)](https://codeclimate.com/github/SelenaSmall/toy_robot/coverage)
 
-Toy robot simulator written in Ruby
-
-***
-
-## Installation
-Environment: Built on Mac OSX 10.11.6 using Ruby -v 2.4.1
-
-Make sure you have the correct version of ruby installed 
-https://www.ruby-lang.org/en/documentation/installation/
-	
-Clone this Repo
-> $ git clone https://github.com/selenasmall/toy_robot.git 
-
-In root of the app run bundle install
-> $ gem install bundler && bundle install
-
-***
 
 ## Usage
-Run the program from the app root
 > $ ruby toy_robot.rb
 
 Expected terminal output:
